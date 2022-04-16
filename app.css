@@ -1,0 +1,47 @@
+.commentboxheader{
+    display: flex;
+    flex-direction: row;
+    justify-content:flex-start ;
+    margin-top:5px;
+}
+button{
+    margin:5px;
+}
+textarea{
+    display: block;
+}
+.rootContainer{
+    width: 600px;
+    padding: 20px;
+}
+
+.name-handle{
+    margin: 2px 5px 15px 0px;
+}
+.title{
+    font-size: 25px;
+    margin-bottom: 2rem;
+}
+#commentBox{
+    margin-bottom: 15px;
+}
+ul{
+    list-style-type: none;
+}
+.comment{
+    min-width: 500px;
+    border-top: dotted 1px darkkhaki;
+    padding: 5px 5px;
+    margin: 5px;
+}
+.details-flex{
+
+}
+.rightalign{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.linkstyle{
+    padding-right: 5px;
+}
